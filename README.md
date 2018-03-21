@@ -1,2 +1,2 @@
 # WebReportingBDD
-Script pour crée la BDD de webreporting
+Script pour créer la BDD de webreporting
